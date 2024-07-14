@@ -1,0 +1,14 @@
+**/.classpath
+**/.dockerignore
+**/.env
+**/.git
+**/.gitignore
+**/.project
+**/.settings
+**/.toolstarget
+**/*.md
+**/*.ps1
+**/*.sh
+**/bin
+**/obj
+**/out
